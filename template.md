@@ -161,7 +161,7 @@ Output:
 Interpreted Languages 
 ```
 
--The rsort() functions sort the values of an array in descending alphabetical/numerical order (Ex: Z, Y, X, W, V... 5, 4, 3, 2, 1...)
+- The rsort() functions sort the values of an array in descending alphabetical/numerical order (Ex: Z, Y, X, W, V... 5, 4, 3, 2, 1...)
 
 ```
 <?php
@@ -180,7 +180,7 @@ Array
 )
 ```
 
--The asort() function sorts an associative array, by it's values, in ascending alphabetical/numerical order (Ex: A, B, C, D, E... 5, 4, 3, 2, 1...)
+- The asort() function sorts an associative array, by it's values, in ascending alphabetical/numerical order (Ex: A, B, C, D, E... 5, 4, 3, 2, 1...)
 
 - The ksort() function sorts an associative array, by it's keys, in ascending alphabetical/numerical order (Ex: A, B, C, D, E... 5, 4, 3, 2, 1...)
 
